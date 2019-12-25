@@ -6,10 +6,27 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 03 Dec 2019 10:20:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2019 13:17:48 +0900</lastBuildDate>
     
 	<atom:link href="https://m4k070.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アーマーガアランターンサイクルPT</title>
+      <link>https://m4k070.github.io/posts/sw-pt2/</link>
+      <pubDate>Fri, 13 Dec 2019 13:17:48 +0900</pubDate>
+      
+      <guid>https://m4k070.github.io/posts/sw-pt2/</guid>
+      <description>アーマーガアランターンサイクルPT   アーマーガア@ゴツゴツメット HB振り ボディプレス/アイアンヘッド/鉄壁/羽休め
+  ランターン@オボン HC振り ハイドロポンプ/冷凍ビーム/10万ボルト/ボルトチェンジ
+  フライゴン@スカーフ AS振り 地震/岩雪崩/ドラゴンクロー/蜻蛉返り
+  ブラッキー@食べ残し HB振り イカサマ/挑発/ねがいごと/守る
+  マホイップ@リリバ HD振り マジカルシャイン/マジカルフレイム/瞑想/自己再生
+  ジャラランガ@ロゼル HA振り Sソウルビート後最速ドラパルト拔き調整 ドレインパンチ/アイアンヘッド/ドラゴンクロー/ソウルビート
+   アーマーガア(物理受け)・ランターン(特殊受け)のサイクルを回す。 耐性受けして積む。
+ 初手トゲキッスに出し負けて悪だくみを積まれると対あり。
+   </description>
+    </item>
     
     <item>
       <title>剣盾PT１</title>
@@ -17,7 +34,18 @@
       <pubDate>Tue, 03 Dec 2019 10:20:53 +0900</pubDate>
       
       <guid>https://m4k070.github.io/posts/sw-pt1/</guid>
-      <description>メンバー 火力ではなく無効化によって圧力をかけて交換戦を仕掛けるコンセプト。 ランターンは種族値以外は優秀。 誰か夢アーマーガア交換してください&amp;lt;m(__)m&amp;gt;
+      <description>メンバー   ミミッキュ
+  ドラパルト
+  ランターン
+  キテルグマ
+  ブラッキー
+  シャンデラ
+ ドラパルト
+  キテルグマ
+  誰か
+      火力ではなく無効化によって圧力をかけて交換戦を仕掛けるコンセプト。 ランターンは種族値以外は優秀。
+ 先発ドラパルト対ミミッキュで蜻蛉ができるのが強い。
+ 誰か夢アーマーガア交換してください&amp;lt;m(__)m&amp;gt;
  ミミッキュ     もちもの
  命の球
    技1
@@ -26,16 +54,7 @@
  じゃれつく
    技3
  かげうち
-   技4
- 剣の舞
-     役割対象  ドラゴン,ノーマル,格闘
-    ランターン     もちもの
- オボンのみ
-   技1
- ボルトチェンジ
-   技2
- 10万ボルト
-   技3</description>
+   技4</description>
     </item>
     
   </channel>
